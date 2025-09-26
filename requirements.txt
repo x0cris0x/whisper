@@ -2,4 +2,4 @@ pydub==0.25.1
 openai-whisper @ git+https://github.com/openai/whisper.git@dd985ac4b90cafeef8712f2998d62c59c3e62d22
 streamlit==1.45.1
 
-sudo apt install ffmpeg
+#sudo apt install ffmpeg
