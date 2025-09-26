@@ -3,3 +3,6 @@ openai-whisper @ git+https://github.com/openai/whisper.git@dd985ac4b90cafeef8712
 streamlit==1.45.1
 
 #sudo apt install ffmpeg
+
+pipwin=0.5.2
+PyAudio=0.2.14
